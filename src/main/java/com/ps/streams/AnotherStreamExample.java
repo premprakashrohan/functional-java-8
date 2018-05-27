@@ -33,7 +33,7 @@ public class AnotherStreamExample {
 
 		// get list of square of distinct numbers
 		List<Integer> squaresList = getSquares(numbers);
-		System.out.println("Squares List: " + squaresList);
+		System.out.println("Squares List: " + squaresList); 
 		List<Integer> integers = Arrays.asList(1, 2, 13, 4, 15, 6, 17, 8, 19);
 
 		System.out.println("List: " + integers);
