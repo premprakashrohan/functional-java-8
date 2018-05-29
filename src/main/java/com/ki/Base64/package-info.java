@@ -22,4 +22,4 @@ This class implements an encoder for encoding byte data using the Base64 encodin
  * @author ishi
  *
  */
-package com.ps.Base64;
+package com.ki.Base64;

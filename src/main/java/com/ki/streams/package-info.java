@@ -34,4 +34,4 @@ With Java 8, Collection interface has two methods to generate a Stream.
  * @author ishi
  *
  */
-package com.ps.streams;
+package com.ki.streams;

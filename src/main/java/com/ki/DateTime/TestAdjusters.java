@@ -1,4 +1,4 @@
-package com.ps.DateTime;
+package com.ki.DateTime;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

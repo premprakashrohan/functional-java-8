@@ -1,4 +1,4 @@
-package com.ps.streams;
+package com.ki.streams;
 
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;

@@ -1,4 +1,4 @@
-package com.ps.Base64;
+package com.ki.Base64;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;
