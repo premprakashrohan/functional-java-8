@@ -5,4 +5,4 @@
  * @author ishi
  *
  */
-package com.ps.NashornJavaScript;
+package com.ki.NashornJavaScript;

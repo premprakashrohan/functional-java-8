@@ -1,4 +1,4 @@
-package com.ps.lamdaExpressionDemo;
+package com.ki.lamdaExpressionDemo;
 
 import java.util.ArrayList;
 import java.util.Collections;

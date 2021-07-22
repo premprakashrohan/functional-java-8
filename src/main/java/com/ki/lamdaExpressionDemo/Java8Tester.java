@@ -1,4 +1,4 @@
-package com.ps.lamdaExpressionDemo;
+package com.ki.lamdaExpressionDemo;
 
 public class Java8Tester {
 

@@ -1,4 +1,4 @@
-package com.ps.streams;
+package com.ki.streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -8,4 +8,4 @@ For example, ‘List’ or ‘Collection’ interfaces do not have ‘forEach’
  * @author ishi
  *
  */
-package com.ps.defaultMethod;
+package com.ki.defaultMethod;

@@ -1,4 +1,4 @@
-package com.ps.NashornJavaScript;
+package com.ki.NashornJavaScript;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;

@@ -5,4 +5,4 @@
  * @author ishi
  *
  */
-package com.ps.newClasses;
+package com.ki.newClasses;

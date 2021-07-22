@@ -1,4 +1,4 @@
-package com.ps.defaultMethod;
+package com.ki.defaultMethod;
 
 public interface DefaultDemo {
 	 public static void main(String args[]) {

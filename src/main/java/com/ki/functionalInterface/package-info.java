@@ -217,4 +217,4 @@ Represents an operation on a single operand that produces a result of the same t
  * @author ishi
  *
  */
-package com.ps.functionalInterface;
+package com.ki.functionalInterface;

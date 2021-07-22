@@ -16,4 +16,4 @@
  * @author ishi
  *
  */
-package com.ps.lamdaExpressionDemo;
+package com.ki.lamdaExpressionDemo;

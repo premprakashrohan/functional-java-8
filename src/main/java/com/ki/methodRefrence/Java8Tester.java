@@ -1,4 +1,4 @@
-package com.ps.methodRefrence;
+package com.ki.methodRefrence;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -15,4 +15,4 @@
  * @author ishi
  *
  */
-package com.ps.methodRefrence;
+package com.ki.methodRefrence;

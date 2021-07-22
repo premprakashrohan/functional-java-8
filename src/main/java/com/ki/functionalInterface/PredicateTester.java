@@ -1,4 +1,4 @@
-package com.ps.functionalInterface;
+package com.ki.functionalInterface;
 
 import java.util.Arrays;
 import java.util.List;
