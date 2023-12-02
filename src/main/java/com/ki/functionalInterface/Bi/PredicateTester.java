@@ -1,4 +1,4 @@
-package com.ki.functionalInterface;
+package com.ki.functionalInterface.Bi;
 
 import java.util.Arrays;
 import java.util.Collections;
